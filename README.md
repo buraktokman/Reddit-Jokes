@@ -39,6 +39,11 @@ Modify the scripts to include Reddit and email credentials you want to used by s
     `python3 email-joke.py`
     `python3 membership-manager.py`
 
+4. Use the following command to activate the web GUI
+
+
+    `python3 web_app/app.py`
+
 ### LICENSE
 ------
 
